@@ -23,13 +23,3 @@ Tecnologias utilizadas:
 
 Python: A linguagem de programação mais querida dos desenvolvedores.
 Terminal: Interface simples e direta para interagir com o aplicativo.
-Contribua:
-
-Quer ajudar a melhorar esse projeto? Sinta-se à vontade para contribuir no GitHub!
-
-Dica: Para deixar seu aplicativo ainda mais completo, você pode adicionar as seguintes funcionalidades:
-
-Edição de restaurantes: Alterar o nome ou a categoria de um restaurante existente.
-Busca por restaurantes: Encontrar rapidamente um restaurante específico.
-Relatórios: Gerar relatórios personalizados com informações sobre seus restaurantes.
-Vamos juntos transformar a gestão do seu restaurante em uma experiência mais simples e eficiente!
